@@ -1,14 +1,16 @@
 [
     {
-        "title": "name_pass",
+        "id": 0,
+        "gameId": "cag2023-0000",
+        "title": "first game",
         "genre": "genre_pass",
-        "duration": "S",
-        "players": "2-4"
+        "shout": "first shout!"
     },
     {
-        "title": "name_pass",
+        "id": 1,
+        "gameId": "cag2023-0001",
+        "title": "second game",
         "genre": "genre_pass",
-        "duration": "S",
-        "players": "2-4"
+        "shout": "second shout!"
     }
 ]
