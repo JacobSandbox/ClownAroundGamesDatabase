@@ -1,14 +1,14 @@
-{
-    "gameONE": {
+[
+    {
         "title": "name_pass",
         "genre": "genre_pass",
         "duration": "S",
         "players": "2-4"
     },
-    "gameTWO": {
+    {
         "title": "name_pass",
         "genre": "genre_pass",
         "duration": "S",
         "players": "2-4"
     }
-}
+]
