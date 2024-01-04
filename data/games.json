@@ -1,7 +1,8 @@
 [
     {
         "id": 0,
-        "gameId": "cag2023-0000",
+        "productId": "cag23-test",
+        "databaseId": "test",
         "title": "first game",
         "boxart": "blue_tent_lowres.jpg",
         "genre": "action",
@@ -9,7 +10,8 @@
     },
     {
         "id": 1,
-        "gameId": "cag2023-0001",
+        "productId": "cag23-0001",
+        "databaseId": "cag23-0001",
         "title": "second game",
         "boxart": "red_tent_lowres.jpg",
         "genre": "horror",
