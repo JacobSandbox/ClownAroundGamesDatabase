@@ -11,7 +11,7 @@
     {
         "id": 1,
         "productId": "cag23-0001",
-        "databaseId": "cag23-0001",
+        "databaseId": "gamename",
         "title": "second game",
         "boxart": "red_tent_lowres.jpg",
         "genre": "horror",
