@@ -3,8 +3,8 @@
     "images": {
         "setup": "ocean.jpeg",
         "zoom": "table.jpeg",
-        "detail": "blue_tent_lowres.png",
-        "action": "red_tent_lowres.png"
+        "detail": "blue_tent_lowres.jpg",
+        "action": "red_tent_lowres.jpg"
     },
     "genres": ["action", "fantasy", "horror"],
     "duration": "s",
