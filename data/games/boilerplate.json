@@ -9,8 +9,9 @@
     "genres": ["","",""],
     "duration": "",
     "players": "",
+    "purchaseURL": "",
     "description": "",
-    "documents": "",
+    "documents": [""],
     "credits": {
         "design": "",
         "art": "",

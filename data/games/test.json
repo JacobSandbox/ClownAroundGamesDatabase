@@ -9,6 +9,7 @@
     "genres": ["action", "fantasy", "horror"],
     "duration": "s",
     "players": "2-5",
+    "purchaseURL": "",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc dapibus eget enim eget volutpat. Donec porttitor aliquet varius. Nulla sagittis commodo ornare. Maecenas ut ipsum fermentum, vehicula ligula quis, maximus risus. Nulla faucibus nibh leo, vitae feugiat massa condimentum ut. Donec ac placerat mauris, nec interdum eros. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc sit amet orci odio. Nam felis quam, dignissim vitae lectus eget, pharetra facilisis erat. Suspendisse pretium, tellus quis iaculis bibendum, elit dolor vehicula mi, non congue urna lorem ac sapien. Maecenas iaculis interdum mauris at faucibus. Donec leo quam, molestie eu malesuada id, feugiat ut velit.",
     "documents": ["document.txt"],
     "credits": {
