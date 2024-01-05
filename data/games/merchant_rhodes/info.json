@@ -1,0 +1,20 @@
+{
+    "title": "Merchant Rhodes",
+    "images": {
+        "setup": "setup.png",
+        "zoom": "zoom.png",
+        "detail": "detail.png",
+        "action": "action.png"
+    },
+    "genres": ["strategy", "historical", "card"],
+    "duration": "m",
+    "players": "3-4",
+    "purchaseURL": "https://www.thegamecrafter.com/games/merchant-rhodes",
+    "description": "In the 5th century BC, several great empires surrounded the Mediterranean Sea. On the isle of Rhodes, these nations met to trade goods in a clash of cultures and economies. This game is inspired by these ancient markets. In this set collecting card game, players assume the role of merchants from different civilizations competing with each other in a great market. You must buy your opponents goods and sell your own to collect the cards you need, all the while trying not to give the other players too much of an advantage. Each player uses different currency, only one of which has value in their homeland. So go ahead and pick up someone else's money for future deals, just don't get stuck at closing time with a pocket full of useless coins. Wherever you are from, pack your bags, fill your wagons, and head off for Merchant Rhodes!",
+    "documents": "none",
+    "credits": {
+        "design": "Jacob Salemi",
+        "art": "Jacob Salemi",
+        "release": 2023
+    }
+}

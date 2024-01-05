@@ -16,5 +16,14 @@
         "boxart": "red_tent_lowres.jpg",
         "genre": "horror",
         "shout": "second shout!"
+    },
+    {
+        "id": 2,
+        "productId": "cag23-merchant-rhodes",
+        "databaseId": "merchant_rhodes",
+        "title": "Merchant Rhodes",
+        "boxart": "boxart.png",
+        "genre": "Historical",
+        "shout": "Ancient Markets!"
     }
 ]
