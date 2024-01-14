@@ -6,6 +6,7 @@
         "title": "first game",
         "boxart": "blue_tent_lowres.jpg",
         "genre": "action",
+        "type": "board",
         "shout": "first shout!"
     },
     {
@@ -15,6 +16,7 @@
         "title": "second game",
         "boxart": "red_tent_lowres.jpg",
         "genre": "horror",
+        "type": "card",
         "shout": "second shout!"
     },
     {
@@ -24,6 +26,7 @@
         "title": "Merchant Rhodes",
         "boxart": "boxart.png",
         "genre": "historical",
+        "type": "card",
         "shout": "Ancient Markets!"
     }
 ]
