@@ -6,7 +6,7 @@
         "detail": "detail.png",
         "action": "action.png"
     },
-    "genres": ["strategy", "historical", "card"],
+    "genres": ["historical","strategy", "card"],
     "duration": "m",
     "players": "3-4",
     "purchaseURL": "https://www.thegamecrafter.com/games/merchant-rhodes",
