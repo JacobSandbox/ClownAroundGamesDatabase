@@ -1,16 +1,6 @@
 [
     {
         "id": 0,
-        "productId": "cag23-test",
-        "databaseId": "test",
-        "title": "first game",
-        "boxart": "blue_tent_lowres.jpg",
-        "genre": "action",
-        "type": "board",
-        "shout": "first shout!"
-    },
-    {
-        "id": 1,
         "productId": "cag23-cardinal",
         "databaseId": "cardinal",
         "title": "Cardinal",
