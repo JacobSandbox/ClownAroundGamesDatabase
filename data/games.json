@@ -11,13 +11,13 @@
     },
     {
         "id": 1,
-        "productId": "cag23-0001",
-        "databaseId": "gamename",
-        "title": "second game",
+        "productId": "cag23-cardinal",
+        "databaseId": "cardinal",
+        "title": "Cardinal",
         "boxart": "red_tent_lowres.jpg",
-        "genre": "horror",
-        "type": "card",
-        "shout": "second shout!"
+        "genre": "stretegy",
+        "type": "board",
+        "shout": "High seas strategy!"
     },
     {
         "id": 2,

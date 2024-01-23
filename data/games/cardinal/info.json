@@ -1,0 +1,20 @@
+{
+    "title": "Cardinal",
+    "images": {
+        "setup": "setup.png",
+        "zoom": "zoom.png",
+        "detail": "detail.png",
+        "action": "action.png"
+    },
+    "genres": ["strategy", "board"],
+    "duration": "s",
+    "players": "2",
+    "purchaseURL": "https://www.thegamecrafter.com/games/merchant-rhodes",
+    "description": "Compete one on one to conquer the oceans by placing all your ships down first. But be warned! Group too many ships together and you’ll summon the pirate to attack all who are nearby. Use this to your advantage to keep your opponent at bay while advancing your fleet to victory! In this 1 vs 1 game, players strategically place ships to fill the board while knocking their opponents pieces off. Safely get all 5 of your pieces down and you reign victorious! With durable wooden pieces and a folding board, Cardinal is great to take with you or keep on your coffee table. Keep your wits sharp, watch out for those black sails, and may the best captain win.",
+    "documents": "rules.pdf",
+    "credits": {
+        "design": "Jacob Salemi",
+        "art": "Jacob Salemi",
+        "release": 2023
+    }
+}
