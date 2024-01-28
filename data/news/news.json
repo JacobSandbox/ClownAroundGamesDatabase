@@ -1,17 +1,17 @@
 [
     {
-        "image": "test",
-        "url": "",
-        "desc": ""
+        "image": "red_tent_lowres.jpg",
+        "url": "about",
+        "desc": "Studio"
     },
     {
-        "image": "",
-        "url": "",
-        "desc": ""
+        "image": "cardinal_news.png",
+        "url": "detail/cardinal",
+        "desc": "Cardinal release"
     },
     {
-        "image": "",
-        "url": "",
-        "desc": ""
+        "image": "merchant_news.png",
+        "url": "detail/merchant_rhodes",
+        "desc": "Merchant Rhodes release"
     }
 ]
