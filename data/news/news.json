@@ -1,10 +1,5 @@
 [
     {
-        "image": "red_tent_lowres.jpg",
-        "url": "about",
-        "desc": "Studio"
-    },
-    {
         "image": "cardinal_ad.png",
         "url": "detail/cardinal",
         "desc": "Cardinal release"
@@ -13,5 +8,10 @@
         "image": "merchant_rhodes_ad.png",
         "url": "detail/merchant_rhodes",
         "desc": "Merchant Rhodes release"
+    },
+    {
+        "image": "coming_soon_ad.png",
+        "url": "games/all",
+        "desc": "More Games Coming Soon!"
     }
 ]
